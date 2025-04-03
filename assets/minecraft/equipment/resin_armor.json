@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "minecraft:resin_armor"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "minecraft:resin_armor"
+        }
+      ]
+    }
+  }

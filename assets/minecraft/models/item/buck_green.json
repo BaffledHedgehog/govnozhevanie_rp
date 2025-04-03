@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bucks",
+    "layer1": "minecraft:item/bucks_overlay_lime"
+  }
+}
