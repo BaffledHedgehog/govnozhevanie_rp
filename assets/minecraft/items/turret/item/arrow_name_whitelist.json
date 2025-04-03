@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "model",
+                "model": "minecraft:block/barrel"
+            },
+            {
+                "type": "model",
+                "model": "item/turret/case/name_whitelist"
+            },
+            {
+                "type": "model",
+                "model": "item/turret/gun/arrow"
+            }
+        ]
+    }, "hand_animation_on_swap": false
+}

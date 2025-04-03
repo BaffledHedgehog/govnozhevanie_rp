@@ -1,0 +1,44 @@
+{
+	"credit": "Made by @argent.blade",
+	"textures": {
+		"1": "item/argent_blade"
+	},
+	"elements": [
+		{
+			"from": [7.5, 7, 8],
+			"to": [8, 8, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 7.5, 6.25]},
+			"faces": {
+				"east": {"uv": [8, 7, 12.5, 8], "texture": "#1"},
+				"south": {"uv": [0, 10, 0.5, 11], "texture": "#1"},
+				"west": {"uv": [8, 6, 12.5, 7], "texture": "#1"},
+				"up": {"uv": [8.5, 12.5, 8, 8], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [9.5, 8, 9, 12.5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.75, 6, -3.5],
+			"to": [7.75, 9, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 7.5, 6.25]},
+			"faces": {
+				"east": {"uv": [0, 3, 11.5, 6], "texture": "#1"},
+				"west": {"uv": [0, 0, 11.5, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 5.5, 8],
+			"to": [9.5, 9.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 7.5, 6.25]},
+			"faces": {
+				"north": {"uv": [4, 6, 7.5, 10], "texture": "#1"},
+				"south": {"uv": [0, 6, 3.5, 10], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1.25, 2]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "minecraft:crimson_wither_skeleton"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "minecraft:crimson_wither_skeleton"
+        }
+      ]
+    }
+  }
