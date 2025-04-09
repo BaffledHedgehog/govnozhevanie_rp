@@ -1,6 +1,7 @@
 {
     "model": {
       "type": "minecraft:model",
+      "tints":[{"type": "dye","default": 16777215}],
       "model": "minecraft:item/buck_white"
     }
   }
